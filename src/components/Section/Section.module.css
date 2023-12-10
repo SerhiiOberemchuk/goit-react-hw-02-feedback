@@ -3,5 +3,9 @@
 }
 
 .title {
+    font-style: italic;
+    font-size: 32px;
+    color: coral;
     margin: auto;
+    margin-bottom: 20px;
 }

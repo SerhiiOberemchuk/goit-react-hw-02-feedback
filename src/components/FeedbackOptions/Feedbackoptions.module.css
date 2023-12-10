@@ -1,5 +1,9 @@
 .option_buttons {
     text-transform: capitalize;
+    border: none;
+    padding: 10px;
+    font-size: 24px;
+    background-color: cornflowerblue;
 }
 
 .button_box {
